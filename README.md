@@ -1,5 +1,3 @@
-# electoral-data
-
 # Nigeria Presidential Elections & Global Incumbent Re-election Dataset
 
 ## Overview
@@ -29,7 +27,7 @@ Every row is one incumbent's re-election attempt.
 | Notes | Context (disputes, annulments, coups, term-limit changes, etc.) |
 | Source | Source(s) used for verification |
 
-**Coverage:** Nigeria (complete, 1979–2023), West Africa (partial — Côte d'Ivoire, Ghana), broader Africa (6 countries: Kenya, Uganda, Zimbabwe, Egypt, Cameroon, Rwanda), Worldwide (flagship cases only: United States full history 1800–2024, Russia, Venezuela). **~40 African and ~150 worldwide countries are not yet researched.**
+**Coverage:** Nigeria (complete, 1979–2023), West Africa (partial Côte d'Ivoire, Ghana), broader Africa (6 countries: Kenya, Uganda, Zimbabwe, Egypt, Cameroon, Rwanda), Worldwide (flagship cases only: United States full history 1800–2024, Russia, Venezuela). **~40 African and ~150 worldwide countries are not yet researched.**
 
 ### Sheet 2 — 2015 Nigeria Presidential Election
 Merged from three original tabs: candidate results, voter turnout, registered voters.

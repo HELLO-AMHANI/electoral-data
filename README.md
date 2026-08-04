@@ -34,15 +34,15 @@ Every row is one incumbent's re-election attempt.
 ### Sheet 2 — 2015 Nigeria Presidential Election
 Merged from three original tabs: candidate results, voter turnout, registered voters.
 
-- **Candidate results:** all 14 candidates, votes, % of valid votes, win/loss. Verified — the 14 figures sum exactly to the certified total valid votes (28,587,564).
-- **Turnout data:** accredited voters, total votes cast, valid votes, rejected votes (two slightly different figure sets exist in public sources — both included, INEC/Channels TV figures marked as primary).
-- **Registered voters:** 68,833,476 (primary) — a second widely-cited figure (67,422,005) also included since sources disagree slightly.
+- **Candidate results:** all 14 candidates, votes, % of valid votes, win/loss. Verified the 14 figures sum exactly to the certified total valid votes (28,587,564).
+- **Turnout data:** accredited voters, total votes cast, valid votes, rejected votes (two slightly different figure sets exist in public sources both included, INEC/Channels TV figures marked as primary).
+- **Registered voters:** 68,833,476 (primary) a second widely-cited figure (67,422,005) also included since sources disagree slightly.
 
 ### Sheet 3 — 2023 Nigeria Presidential Election
 Same structure as Sheet 2.
 
-- **Candidate results:** top 4 candidates (Tinubu, Atiku, Obi, Kwankwaso) have official INEC-certified vote counts. The remaining 14 minor candidates are listed by name/party with a verified **combined** total (648,474 votes) — individual national vote counts for these 14 were not found consolidated in any single source, and are marked `n/a — not verified` rather than estimated.
-- **Turnout data:** accredited voters, total votes cast, valid votes, rejected votes — all INEC-certified.
+- **Candidate results:** top 4 candidates (Tinubu, Atiku, Obi, Kwankwaso) have official INEC-certified vote counts. The remaining 14 minor candidates are listed by name/party with a verified **combined** total (648,474 votes) individual national vote counts for these 14 were not found consolidated in any single source, and are marked `n/a — not verified` rather than estimated.
+- **Turnout data:** accredited voters, total votes cast, valid votes, rejected votes all INEC-certified.
 - **Registered voters:** 93,469,008, plus PVC (Permanent Voter Card) collection statistics.
 
 ## Verification Standard
@@ -52,7 +52,7 @@ Every populated cell is checked against at least one primary/official source (IN
 ## Known Gaps
 
 - **Incumbent sheet:** ~African countries and worldwide countries not yet researched.
-- **2023 candidates:** individual national vote totals for 14 of 18 candidates not available — would require manual aggregation of INEC's 37 state-level results (36 states + FCT).
+- **2023 candidates:** individual national vote totals for 14 of 18 candidates not available would require manual aggregation of INEC's 37 state-level results (36 states + FCT).
 - Some 2015 figures (accredited voters, total votes cast) have two slightly different published versions; both are retained rather than silently picking one.
 
 ## Sources

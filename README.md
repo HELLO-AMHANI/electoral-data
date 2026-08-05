@@ -5,7 +5,7 @@
 This project combines two research threads into a single Google Sheets workbook for analysis:
 
 1. **Global incumbent re-election outcomes** — presidents who contested re-election worldwide, and whether they won or lost.
-2. **Nigeria 2015 & 2023 presidential elections** — candidate-level results Showing how both presidents won by starting fresh as non-incumbents, voter turnout, and registered voter data.
+2. **Nigeria 2015 & 2023 presidential elections** — candidate-level results Showing how both presidents won by starting fresh as non-incumbents, voter turnout, registered voter data and the total population of each year.
 
 The goal is to place Nigeria's two most consequential recent elections (2015: first incumbent defeat in Nigerian history; 2023: most fragmented result in the Fourth Republic) in the context of global and regional incumbency patterns.
 
@@ -35,6 +35,7 @@ Merged from three original tabs: candidate results, voter turnout, registered vo
 - **Candidate results:** all 14 candidates, votes, % of valid votes, win/loss. Verified the 14 figures sum exactly to the certified total valid votes (28,587,564).
 - **Turnout data:** accredited voters, total votes cast, valid votes, rejected votes (two slightly different figure sets exist in public sources both included, INEC/Channels TV figures marked as primary).
 - **Registered voters:** 68,833,476 (primary) a second widely-cited figure (67,422,005) also included since sources disagree slightly.
+- **Total Population:** showing the population by gender and age grade.
 
 ### Sheet 3 — 2023 Nigeria Presidential Election
 Same structure as Sheet 2.
@@ -42,6 +43,8 @@ Same structure as Sheet 2.
 - **Candidate results:** top 4 candidates (Tinubu, Atiku, Obi, Kwankwaso) have official INEC-certified vote counts. The remaining 14 minor candidates are listed by name/party with a verified **combined** total (648,474 votes) individual national vote counts for these 14 were not found consolidated in any single source, and are marked `n/a — not verified` rather than estimated.
 - **Turnout data:** accredited voters, total votes cast, valid votes, rejected votes all INEC-certified.
 - **Registered voters:** 93,469,008, plus PVC (Permanent Voter Card) collection statistics.
+- **Total Population:** showing the population by gender and age grade.
+
 
 ## Verification Standard
 

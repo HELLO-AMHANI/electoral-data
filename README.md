@@ -5,7 +5,7 @@
 This project combines two research threads into a single Google Sheets workbook for analysis:
 
 1. **Global incumbent re-election outcomes** — presidents who contested re-election worldwide, and whether they won or lost.
-2. **Nigeria 2015 & 2023 presidential elections** — candidate-level results, voter turnout, and registered voter data.
+2. **Nigeria 2015 & 2023 presidential elections** — candidate-level results Showing how both presidents won by starting fresh as non-incumbents, voter turnout, and registered voter data.
 
 The goal is to place Nigeria's two most consequential recent elections (2015: first incumbent defeat in Nigerian history; 2023: most fragmented result in the Fourth Republic) in the context of global and regional incumbency patterns.
 
